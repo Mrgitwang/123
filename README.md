@@ -1,1 +1,5 @@
-# 123
+#include<stdio.h>
+main()
+{
+  printf("wrnmmp");
+}
